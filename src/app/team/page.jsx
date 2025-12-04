@@ -26,18 +26,6 @@ const team = [
     img: "satyam_img.jpg",
     linkedin: "https://www.linkedin.com/in/satyam-bhardwaj7/",
   },
-  // {
-  //   name: "Neha Gupta",
-  //   role: "Design Lead",
-  //   img: "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
-  //   linkedin: "#",
-  // },
-  // {
-  //   name: "Kunal Verma",
-  //   role: "Management Lead",
-  //   img: "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91",
-  //   linkedin: "#",
-  // },
 ];
 
 export default function TeamPage() {
