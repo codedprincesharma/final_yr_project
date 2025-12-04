@@ -6,19 +6,19 @@ const team = [
     name: "Deepak Kumar",
     placedin: "Cognizant",
     img: "deepak_img.jpg",
-    linkedin: "#",
+    linkedin: "https://www.linkedin.com/in/deepak-kumar-0b4ba3280/",
   },
   {
     name: "Aman Kumar",
     placedin: "Capigimini",
     img: "aman_img.jpg",
-    linkedin: "#",
+    linkedin: "https://www.linkedin.com/in/aman-kumar-76656b254/",
   },
   {
     name: "Bibhuti Vishal",
     placedin: "Coming soon",
     img: "bibhuti_img.jpg",
-    linkedin: "#",
+    linkedin: "https://www.linkedin.com/in/bibhuti-vishal-jha-0906012a7/",
   },
   {
     name: "Satyam Kumar",
