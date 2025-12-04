@@ -3,41 +3,41 @@ import { Linkedin } from "lucide-react";
 
 const team = [
   {
-    name: "Priya Sharma",
-    role: "Chairperson",
+    name: "Deepak Kumar",
+    placedin: "Cognizant",
     img: "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e",
     linkedin: "#",
   },
   {
-    name: "Arjun Patel",
-    role: "Vice Chair",
+    name: "Aman Kumar",
+    placedin: "Capigimini",
     img: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e",
     linkedin: "#",
   },
   {
-    name: "Riya Das",
-    role: "Technical Lead",
-    img: "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e",
+    name: "Bibhuti Vishal",
+    placedin: "Coming soon",
+    img: "bibhuti_img.jpg",
     linkedin: "#",
   },
   {
-    name: "Rohan Singh",
-    role: "Event Head",
+    name: "Satyam Kumar",
+    placedin: "Infosys",
     img: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d",
     linkedin: "#",
   },
-  {
-    name: "Neha Gupta",
-    role: "Design Lead",
-    img: "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
-    linkedin: "#",
-  },
-  {
-    name: "Kunal Verma",
-    role: "Management Lead",
-    img: "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91",
-    linkedin: "#",
-  },
+  // {
+  //   name: "Neha Gupta",
+  //   role: "Design Lead",
+  //   img: "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
+  //   linkedin: "#",
+  // },
+  // {
+  //   name: "Kunal Verma",
+  //   role: "Management Lead",
+  //   img: "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91",
+  //   linkedin: "#",
+  // },
 ];
 
 export default function TeamPage() {
