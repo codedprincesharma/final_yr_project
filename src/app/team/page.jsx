@@ -5,13 +5,13 @@ const team = [
   {
     name: "Deepak Kumar",
     placedin: "Cognizant",
-    img: "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e",
+    img: "deepak_img.jpg",
     linkedin: "#",
   },
   {
     name: "Aman Kumar",
     placedin: "Capigimini",
-    img: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e",
+    img: "aman_img.jpg",
     linkedin: "#",
   },
   {
@@ -23,8 +23,8 @@ const team = [
   {
     name: "Satyam Kumar",
     placedin: "Infosys",
-    img: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d",
-    linkedin: "#",
+    img: "satyam_img.jpg",
+    linkedin: "https://www.linkedin.com/in/satyam-bhardwaj7/",
   },
   // {
   //   name: "Neha Gupta",
