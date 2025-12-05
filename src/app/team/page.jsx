@@ -17,13 +17,13 @@ const team = [
   {
     name: "Bhaskar Jha",
     role: "Teach Lead",
-    img: "bhaskar_img.jpg",
+    img: "https://media.licdn.com/dms/image/v2/D5635AQESYMrk3TqOEw/profile-framedphoto-shrink_400_400/B56ZnPM_YnJoAc-/0/1760117913743?e=1765555200&v=beta&t=tCt25M9VQbEH5sDQ1fHPg48jr0Zr60uniWaAuA6LxDg",
     linkedin: "https://www.linkedin.com/in/bhaxkar/",
   },
   {
     name: "Manish Chaurasiya",
     role: "PR Head",
-    img: "manish_img.jpg",
+    img: "https://media.licdn.com/dms/image/v2/D5635AQH_W_5IeXS4BA/profile-framedphoto-shrink_400_400/B56ZfMW4mSG0Ag-/0/1751480240894?e=1765555200&v=beta&t=Jh1YxQsj9IfV8FDpoEjEAUyO1oJQ2QMdXpjsB79-xmQ",
     linkedin: "https://www.linkedin.com/in/manish-kumar-chaurasia-058624263/",
   },
   {
@@ -47,13 +47,13 @@ const team = [
   {
     name: "Shreya Prasad",
     role: "Chair Person Women",
-    // img: "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91",
+    img: "https://media.licdn.com/dms/image/v2/D5603AQEOv_wr9SrNxw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1709303428649?e=1766620800&v=beta&t=emBmTUSbuwh2zPEVHVXI7nSmfyLTW6OEStxFejpymIM",
     linkedin: "https://www.linkedin.com/in/shreya-prasad-86505b2b8/",
   },
   {
     name: "Shreya Rani Dey",
     role: "Design Head",
-    // img: "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91",
+    img: "https://media.licdn.com/dms/image/v2/D5635AQE9g21vZkXW9Q/profile-framedphoto-shrink_400_400/B56Zl1MDRBKMAc-/0/1758607717879?e=1765555200&v=beta&t=_Npu2tSAc-hb1pisPWCA_zpv0eK5Pz9HPSw-eFCAceg",
     linkedin: "https://www.linkedin.com/in/sreya-rani-dey-b4600925a/",
   },
 ];
