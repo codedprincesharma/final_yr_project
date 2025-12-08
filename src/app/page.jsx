@@ -154,7 +154,7 @@ export default function ACMPage() {
             >
               <button className="group px-10 py-4 bg-gradient-to-r from-blue-600 to-purple-700 rounded-2xl font-bold text-lg hover:shadow-2xl hover:shadow-blue-500/50 transition-all mx-auto sm:mx-0">
                 Join ACM Now
-                <span className="inline-block ml-2 group-hover:translate-x-2 transition-transform">→</span>
+                <span className="inline-block ml-2 group-hover:translate-x-2 transition-transform"> → </span>
               </button>
 
               <button
